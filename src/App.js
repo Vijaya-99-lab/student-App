@@ -6,6 +6,7 @@ import AppStyles from './App.css'
 import {useState} from 'react'
 import Todo from './Todo';
 import styles from '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import Orders from './Orders';
 
 function App() {
 
@@ -34,6 +35,7 @@ let maxCount = 10;
 </div>
 
 <Todo>  </Todo>
+<Orders> </Orders>
    </div>
   );  
 }
