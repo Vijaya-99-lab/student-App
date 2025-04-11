@@ -1,0 +1,28 @@
+.Wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  height: 20vh;
+
+}
+
+.Wrapper button {
+   color: white;
+   border: none;
+   font-size: 22px;
+   padding: 10px 15px;
+   border-radius: 4px;
+}
+
+button.plus {
+  background-color: blue;
+}
+
+button.minus {
+  background-color: rgb(255, 0, 8);
+}
+
+button:disabled {
+  opacity: 0.5;
+}

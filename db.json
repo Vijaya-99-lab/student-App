@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "zzzz",
+      "price": "zzzz",
+      "category": "laptops",
+      "id": "1"
+    },
+    {
+      "name": "Vivo V20",
+      "price": "Vivo V20",
+      "category": "Mobiles",
+      "id": "2"
+    },
+    {
+      "name": "MAC book Air",
+      "price": "MAC book Air",
+      "category": "Mobiles",
+      "id": "3"
+    },
+    {
+      "name": "Samsung Galaxy",
+      "price": "Samsung Galaxy",
+      "category": "mobiles",
+      "id": "9ce3"
+    },
+    {
+      "id": "79b8",
+      "name": "Hi",
+      "price": "19000",
+      "category": "mobiles"
+    },
+    {
+      "id": "1907",
+      "name": "Samsung Galaxy",
+      "price": "90000",
+      "category": "mobiles"
+    },
+    {
+      "id": "aea8",
+      "name": "asdfsdfdsa",
+      "price": "4532453425",
+      "category": "tc"
+    }
+  ]
+}
