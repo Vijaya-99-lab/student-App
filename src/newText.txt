@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-This is new Text created.
-=======
 This is new Text created.
 
 content from dev branch
 
 content adding in the main branch
->>>>>>> main
+
