@@ -2,7 +2,6 @@ This is new Text created.
 
 content from dev branch
 
-content adding in the main branch
+content adding in the main branch 
 
-Trying to enter some new text in the GitHub and Dev branch
-
+added some lines in dev
